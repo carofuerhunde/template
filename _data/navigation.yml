@@ -1,0 +1,21 @@
+nav:
+  - title: "Über uns"
+    section: ueber-uns
+
+  - title: "Services"
+    section: services
+
+  - title: "Team"
+    section: team
+
+  - title: "Kontakt"
+    section: contact
+  
+  - title: "Welpen A-Z"
+    url: http://127.0.0.1:4000/welpen
+
+  - title: "Preise"
+    url: http://127.0.0.1:4000/preis
+
+  - title: "Termine"
+    url: https://etermin.net/caro-fuer-hunde
