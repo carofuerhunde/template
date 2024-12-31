@@ -12,10 +12,10 @@ nav:
     section: contact
   
   - title: "Welpen A-Z"
-    url: http://127.0.0.1:4000/welpen
+    url: http://www.caro-fuer-hunde.de/welpen
 
   - title: "Preise"
-    url: http://127.0.0.1:4000/preis
+    url: http://www.caro-fuer-hunde.de/preis
 
   - title: "Termine"
     url: https://etermin.net/caro-fuer-hunde
