@@ -135,7 +135,7 @@ team:
             icon: fab fa-facebook-f
       - name: "Kerstin"
         image: assets/img/team/prof_pic/small_kerstin_completed.png
-        kompleted: "Kerstin Kompleted"
+        kompleted: "Caro Kompleted"
         social:
           - url: https://www.instagram.com/carohundeschule/
             icon: fab fa-instagram
