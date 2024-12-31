@@ -1,8 +1,8 @@
 header:
     title:
     text:
-    button: Erfahre mehr
-    buttonlink: "#ueber-uns"
+    button:
+    buttonlink:
 
 services:
     title: "Das Richtige für Sie und Ihren Vierbeiner"
