@@ -21,6 +21,9 @@ services:
       - title: "Hundesport"
         desc: "Entdecken Sie die Vielfalt! Ob Mondioring, IGP, Begleithund oder Fit mit Hund – bei uns findet jeder das passende Training. Spaß und Erfolg garantiert!"
         icon: assets/img/services/Schlitzohr.jpeg
+      - title: "Workshops"
+        desc: "Ob auf unserem professionellen Trainingsgelände oder direkt bei Ihnen vor Ort – wir gestalten Workshops, die genau auf Ihre Bedürfnisse und die Ihres Hundes zugeschnitten sind. Von Grunderziehung und der Lösung von Verhaltensproblemen bis hin zu Hundesport-Training für aktive Vierbeiner: Gemeinsam fördern wir das Potenzial Ihres Hundes und sorgen für Spaß und Erfolg."
+        icon: assets/img/services/Freche.jpeg
 
 ueber-uns:
     title: "Über uns"
