@@ -136,15 +136,15 @@ team:
             icon: fab fa-instagram
           - url: https://www.facebook.com/caro.hundeschule/
             icon: fab fa-facebook-f
-      - name: "Kerstin"
-        image: assets/img/team/prof_pic/small_kerstin_completed.png
-        kompleted: "Caro Kompleted"
-        social:
-          - url: https://www.instagram.com/carohundeschule/
-            icon: fab fa-instagram
-          - url: https://www.facebook.com/caro.hundeschule/
-            icon: fab fa-facebook-f
-        desc:
+ #     - name: "Kerstin"
+ #       image: assets/img/team/prof_pic/small_kerstin_completed.png
+ #       kompleted: "Caro Kompleted"
+ #       social:
+ #         - url: https://www.instagram.com/carohundeschule/
+ #           icon: fab fa-instagram
+ #         - url: https://www.facebook.com/caro.hundeschule/
+ #           icon: fab fa-facebook-f
+ #       desc:
 
       - name: "Conny"
         image: assets/img/team/prof_pic/conny_completed.png
